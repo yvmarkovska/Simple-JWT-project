@@ -1,1 +1,1 @@
-# A Simple JWT project developed as a job interview assignment
+# A simple JWT project developed as a job interview assignment
